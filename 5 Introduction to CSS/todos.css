@@ -1,3 +1,12 @@
-body {
-	background: orange;
+div {
+	background: purple;
+}
+
+#special {
+	background: yellow;
+	color: blue;
+}
+
+.completed {
+	text-decoration: line-through;
 }
